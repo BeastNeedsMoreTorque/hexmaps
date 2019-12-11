@@ -1,0 +1,73 @@
+{
+	"id": "S14000045",
+	"title": "Midlothian",
+	"demographics": {
+		"2015UKIP": 2.43,
+		"leave": 37.94,
+		"age18-29": 13.54
+	},
+	"elections": {
+		"2019-12-12": {
+			"type": "general",
+			"electorate": 70544,
+			"candidates": [{
+				"id": 6051,
+				"name": "Owen Thompson",
+				"party": { "code": "SNP", "title": "Scottish National Party (SNP)" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/550b5d843676900a02e1643c.png"
+			},{
+				"id": 34241,
+				"name": "Danielle Rowley",
+				"party": { "code": "Lab", "title": "Labour Party" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/34241.png"
+			},{
+				"id": 71537,
+				"name": "Steve Arrundale",
+				"party": { "code": "LD", "title": "Liberal Democrats" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/71537.png"
+			},{
+				"id": 72229,
+				"name": "Rebecca Jane Fraser",
+				"party": { "code": "Con", "title": "Conservative and Unionist Party" },
+				"img": ""
+			}]
+		},
+		"2017-06-08": {
+			"type": "general",
+			"mp": "Danielle Rowley",
+			"party": { "code": "Lab" },
+			"electorate": 68328,
+			"turnout": { "pc": 66.4, "value": 45344 },
+			"valid": 45273,
+			"invalid": 71,
+			"majority": 885,
+			"candidates": [{
+				"name": "Danielle Rowley",
+				"party": { "code": "Lab", "title": "Labour" },
+				"votes": 16458
+			},{
+				"name": "Owen Thompson",
+				"party": { "code": "SNP", "title": "Scottish National Party" },
+				"votes": 15573
+			},{
+				"name": "Chris Donnelly",
+				"party": { "code": "Con", "title": "Conservative" },
+				"votes": 11521
+			},{
+				"name": "Ross Laird",
+				"party": { "code": "LD", "title": "Liberal Democrat" },
+				"votes": 1721
+			}]
+		},
+		"2015-05-07": {
+			"type": "general",
+			"mp": "Owen Thompson",
+			"party": { "code": "SNP", "title": "Scottish National Party" },
+			"electorate": 67875,
+			"turnout": { "pc":71.3, "value": 48365 },
+			"valid": 48331,
+			"invalid": 34,
+			"majority": 9859
+		}
+	}
+}

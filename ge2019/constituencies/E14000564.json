@@ -1,0 +1,79 @@
+{
+	"id": "E14000564",
+	"title": "Birmingham, Ladywood",
+	"demographics": {
+		"2015UKIP": 5.03,
+		"leave": 35.62,
+		"age18-29": 30.74,
+		"withdegree": 19.72
+	},
+	"elections": {
+		"2019-12-12": {
+			"type": "general",
+			"electorate": 74912,
+			"candidates": [{
+				"id": 216,
+				"name": "Shabana Mahmood",
+				"party": { "code": "Lab", "title": "Labour Party" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/553c300d62bbab35264e7ace.png"
+			},{
+				"id": 4821,
+				"name": "Lee Dargue",
+				"party": { "code": "LD", "title": "Liberal Democrats" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/4821.png"
+			},{
+				"id": 6127,
+				"name": "Andrew Garcarz",
+				"party": { "code": "Brexit", "title": "The Brexit Party" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/6127-c97ea0e2-7abb-4d2b-be32-1092365f8ed1.png"
+			},{
+				"id": 41335,
+				"name": "Alexander Nettle",
+				"party": { "code": "Green", "title": "Green Party" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/41335.png"
+			},{
+				"id": 72549,
+				"name": "Mary Noone",
+				"party": { "code": "Con", "title": "Conservative and Unionist Party" },
+				"img": ""
+			}]
+		},
+		"2017-06-08": {
+			"type": "general",
+			"mp": "Shabana Mahmood",
+			"party": { "code": "Lab" },
+			"electorate": 70023,
+			"turnout": { "pc": 59.2, "value": 41462 },
+			"valid": 41307,
+			"invalid": 155,
+			"majority": 28714,
+			"candidates": [{
+				"name": "Shabana Mahmood",
+				"party": { "code": "Lab", "title": "Labour" },
+				"votes": 34166
+			},{
+				"name": "Andrew Browning",
+				"party": { "code": "Con", "title": "Conservative" },
+				"votes": 5452
+			},{
+				"name": "Lee Dargue",
+				"party": { "code": "LD", "title": "Liberal Democrat" },
+				"votes": 1156
+			},{
+				"name": "Kefentse Dennis",
+				"party": { "code": "Green", "title": "Green" },
+				"votes": 533
+			}]
+		},
+		"2015-05-07": {
+			"type": "general",
+			"mp": "Shabana Mahmood",
+			"party": { "code": "Lab", "title": "Labour" },
+			"electorate": 68128,
+			"turnout": { "pc":53.1, "value": 36169 },
+			"valid": 35916,
+			"invalid": 253,
+			"majority": 21868
+		}
+	}
+}

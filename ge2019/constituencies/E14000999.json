@@ -1,0 +1,83 @@
+{
+	"id": "E14000999",
+	"title": "Torbay",
+	"demographics": {
+		"2015UKIP": 13.6,
+		"leave": 62.66,
+		"age18-29": 13.04,
+		"withdegree": 9.57
+	},
+	"elections": {
+		"2019-12-12": {
+			"type": "general",
+			"electorate": 75054,
+			"candidates": [{
+				"id": 2830,
+				"name": "Kevin Foster",
+				"party": { "code": "Con", "title": "Conservative and Unionist Party" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/2830.png"
+			},{
+				"id": 3471,
+				"name": "Sam Moss",
+				"party": { "code": "Green", "title": "Green Party" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/3471.png"
+			},{
+				"id": 69056,
+				"name": "Lee Howgate",
+				"party": { "code": "LD", "title": "Liberal Democrats" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/69056.png"
+			},{
+				"id": 71696,
+				"name": "James Channer",
+				"party": { "code": "Ind", "title": "Independent" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/71696-f7ec83ad-bfbf-4f9c-9f21-106c274e57a5.png"
+			},{
+				"id": 72301,
+				"name": "Michele Middleditch",
+				"party": { "code": "Lab", "title": "Labour Party" },
+				"img": ""
+			}]
+		},
+		"2017-06-08": {
+			"type": "general",
+			"mp": "Kevin Foster",
+			"party": { "code": "Con" },
+			"electorate": 75931,
+			"turnout": { "pc": 67.5, "value": 51249 },
+			"valid": 51174,
+			"invalid": 75,
+			"majority": 14283,
+			"candidates": [{
+				"name": "Kevin Foster",
+				"party": { "code": "Con", "title": "Conservative" },
+				"votes": 27141
+			},{
+				"name": "Deborah Brewer",
+				"party": { "code": "LD", "title": "Liberal Democrat" },
+				"votes": 12858
+			},{
+				"name": "Paul Raybould",
+				"party": { "code": "Lab", "title": "Labour" },
+				"votes": 9310
+			},{
+				"name": "Tony McIntyre",
+				"party": { "code": "UKIP", "title": "UK Independence Party" },
+				"votes": 1213
+			},{
+				"name": "Sam Moss",
+				"party": { "code": "Green", "title": "Green" },
+				"votes": 652
+			}]
+		},
+		"2015-05-07": {
+			"type": "general",
+			"mp": "Kevin Foster",
+			"party": { "code": "Con", "title": "Conservative" },
+			"electorate": 76350,
+			"turnout": { "pc":63.1, "value": 48214 },
+			"valid": 48079,
+			"invalid": 135,
+			"majority": 3286
+		}
+	}
+}

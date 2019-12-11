@@ -1,0 +1,87 @@
+{
+	"id": "E14000824",
+	"title": "Mole Valley",
+	"demographics": {
+		"2015UKIP": 11.21,
+		"leave": 47.59,
+		"age18-29": 10.26,
+		"withdegree": 25.33
+	},
+	"elections": {
+		"2019-12-12": {
+			"type": "general",
+			"candidates": [{
+				"id": 3051,
+				"name": "Paul Beresford",
+				"party": { "code": "Con", "title": "Conservative and Unionist Party" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/3051.png"
+			},{
+				"id": 5072,
+				"name": "Paul Kennedy",
+				"party": { "code": "LD", "title": "Liberal Democrats" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/7584.png"
+			},{
+				"id": 55839,
+				"name": "Lisa Claire Scott",
+				"party": { "code": "Green", "title": "Green Party" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/55839-0c84d63b-76ce-42c6-8a5b-5b06a104223a.png"
+			},{
+				"id": 72477,
+				"name": "Brian Andrew Bostock",
+				"party": { "code": "Lab", "title": "Labour Party" },
+				"img": "https://static-candidates.democracyclub.org.uk/media/images/images/72477-4f249556-caac-4fbe-8a23-c11d4987d7c1.png"
+			},{
+				"id": 72478,
+				"name": "Geoffrey Paul Cox",
+				"party": { "code": "UKIP", "title": "UK Independence Party (UKIP)" },
+				"img": ""
+			},{
+				"id": 72479,
+				"name": "Robin Michael Horsley",
+				"party": { "code": "Ind", "title": "Independent" },
+				"img": ""
+			}]
+		},
+		"2017-06-08": {
+			"type": "general",
+			"mp": "Paul Beresford",
+			"party": { "code": "Con" },
+			"electorate": 74545,
+			"turnout": { "pc": 76.3, "value": 56866 },
+			"valid": 56726,
+			"invalid": 140,
+			"majority": 24137,
+			"candidates": [{
+				"name": "Paul Beresford",
+				"party": { "code": "Con", "title": "Conservative" },
+				"votes": 35092
+			},{
+				"name": "Paul  Kennedy",
+				"party": { "code": "LD", "title": "Liberal Democrat" },
+				"votes": 10955
+			},{
+				"name": "Marc  Green",
+				"party": { "code": "Lab", "title": "Labour" },
+				"votes": 7864
+			},{
+				"name": "Jacquetta  Fewster",
+				"party": { "code": "Green", "title": "Green" },
+				"votes": 1463
+			},{
+				"name": "Judy Moore",
+				"party": { "code": "UKIP", "title": "UK Independence Party" },
+				"votes": 1352
+			}]
+		},
+		"2015-05-07": {
+			"type": "general",
+			"mp": "Paul Beresford",
+			"party": { "code": "Con", "title": "Conservative" },
+			"electorate": 74038,
+			"turnout": { "pc":74.7, "value": 55332 },
+			"valid": 55140,
+			"invalid": 192,
+			"majority": 25453
+		}
+	}
+}
